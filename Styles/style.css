@@ -1,0 +1,413 @@
+#lo{
+    height: 200px;
+    width: 200px;
+}
+#twi{
+    background-color: chartreuse;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+#tw{
+    height: 50px;
+    width: 50px;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    margin: auto;
+    float: right;
+}
+#fb{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+    float: left;
+}
+#ig{
+    height: 30px;
+    width: 50PX;
+    margin-bottom: 20px;
+    float: left;
+}
+#controlBtn{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+.move{
+    height: 50px;
+    width: 50px;
+}
+.home-header {}
+.u{
+    height: 200px;
+    width: 200px;
+}
+.me{
+    height: 200px;
+    width: 300px; 
+    margin: auto;
+}
+.home-ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+    margin-right: 50px; 
+ }
+ .img{
+    height: 50px;
+    width: 50px;
+    border-radius: 7px;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 7px;
+}
+ .design-h2 {
+    font-size: 30px;
+ }
+ 
+ .home-ul li {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom:100px;
+    margin-left: 50px;
+ }
+ .i{    
+    background-color: brown;
+    width: 1180px;
+    border-radius: 30px;
+    margin-top:10px;
+    float: right;
+    border: 10px solid red
+ }
+ .king{
+    padding: 20px;
+    border-radius: 30px;
+ }
+ .sim{
+    padding: 10px;
+    border-radius: 30px;
+    height: 170px;
+ }
+ .dan{
+    padding: 10px;
+    border-radius: 30px;
+ }
+ .love{
+    padding: 10px;
+    border-radius: 30px;
+    height: 180px;
+ }
+ .top-deal-img{
+    padding: 10px;
+    background-color: chocolate;
+    border-radius: 30px;
+    height: 180px;
+    width: 250px;
+ }
+ .dave{
+    padding: 10px;
+    border-radius: 30px;
+    height: 180px;
+    width: 250px;
+ }
+ .kok{
+    padding: 10px;
+    border-radius: 30px;
+    height: 180px; 
+ }
+ .e{
+    padding: 20px;
+    border-radius: 30px;
+    height: 170px;
+    width: 230px; 
+ }
+ .bike{
+    padding: 20px;
+    border-radius: 30px;
+    height: 200px;
+    width: 250px;
+ }
+.kag{
+    padding: 20px;
+    border-radius: 30px;
+    height: 200px;
+    width: 250px;
+} 
+.like{
+    padding: 20px;
+    border-radius: 30px;
+    height: 200px;
+    width: 250px;
+} 
+.v{
+    padding: 30px;
+    border-radius:50px;
+    height: 200px;
+    width: 230px;
+}
+
+.n{
+    background-color: yellow;
+    height: 30px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 30px;
+}
+.r{
+    background-color: red;
+    height: 50px;
+    width: 70px;
+    margin: auto;
+}
+.menu{
+    height: 50px;
+    width:140px;
+    background-color:navy;
+   display: flex;
+   justify-content: center;
+   align-items: baseline;
+    border-radius: 10px;
+    float: left;
+}
+.top-deal-img{
+    height: 200px;
+    width: 300px;
+}
+.price{
+    height: 30px;
+    width: 70px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 7px;
+}
+.popularity{
+    height: 50px;
+    width: 70px;
+    background-color: blue;
+    padding: 5px;
+    border-radius:10px;
+}
+.name{
+    height: 50px;
+    width: 70px;
+    background-color: yellow;
+    padding: 5px;
+    border-radius:10px;
+} 
+.details{
+    height: 50px;
+    width: 70px;
+    background-color: orangered;
+    padding: 5px;
+    border-radius:10px;
+} 
+.h{
+    height: 20px;
+    width: 250px;
+}
+.goods{
+    background-color: blue;
+    height:70px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.top{
+    height: 30px;
+    background-color: red;
+    border-radius: 10px;
+    margin: auto;
+    width: 160px;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.top-deals{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.g{
+    height: 30PX;
+    width: 200px;
+    justify-content: center;
+    display: flex;
+    float:right;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.x{
+    height: 200px;
+    width: 270px;
+    border-radius: 500px;
+    float: right;
+    margin-bottom: 20px;
+}
+.WATCH{
+    height: 20px;
+    width: 200px;
+    background-color: red;
+    justify-content: center;
+    display: flex;
+    float: right ;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.g{
+    height:10px;
+    background-color: red;
+    width: 200px;
+    align-items: center;
+    justify-items: flex-end;
+    display: flex;
+    padding: 5px;
+}
+.SIMDI{
+    height: 70px;
+    width: 80px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+}
+.input{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+    margin-right: 50px; 
+ }  
+ .order{
+    background-color: lime;
+    width: 150px;
+    border-radius: 7px;
+    margin: auto;
+ }
+ .place{
+    background-color: black;
+    width: 130px;
+    border-radius: 7px;
+    margin: auto;
+    align-items: center;
+ }
+ .motto{
+    background-color: orange;
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+ }
+ .button{
+    background-color: greenyellow;
+    padding: 20px;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+ }
+ .TED{
+    background-color:red;
+    height:30;
+    width: 100px;
+    margin: auto;
+ }
+ .develop{
+    height: 300px;
+    width: 400px;
+    border-radius:50px;
+ }
+ .im{
+    background-color: black;
+    height: 500px;
+    width: 600px;
+    border-radius: 30px;
+ }
+ .develop{
+    height: 200px;
+    width:300px;
+    border-radius: 30px;
+ }
+ .ride{
+    height: 250px;
+    width:300px 
+ }
+ .programmer{
+    height: 250px;
+    width: 200px; 
+ }
+ .bike{
+    height: 250px;
+    width: 200px; 
+ }
+ .benz{
+    height: 250px;
+    width: 200px; 
+ }
+ .car{
+    height: 250px;
+    width: 200px; 
+ }
+ .drone{
+    height: 250px;
+    width: 200px;
+ }
+ .hi{
+    height: 250px;
+    width: 200px;
+ }
+.hello{
+    height: 250px;
+    width: 200px;   
+} 
+.imge{
+    height: 250px;
+    width: 200px;
+    padding: 20px; 
+}
+.bac{
+    background-color: black;
+    height: 1250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1000px;
+    border: 10px solid red;
+}
+.PHONE{
+    background-color: black;
+}
+.deal-img{
+    height: 100px;
+    width: 200px;
+}
+.DISCOUNT{
+    background-color: darkorange;
+    height: 35px;
+    width: 230px;
+    margin: auto;
+    float: right;
+}
+
+
+
+
