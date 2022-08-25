@@ -1,0 +1,217 @@
+.best-photos{
+    background-color: brown;
+    height: 900px;
+    width: 900px;
+    border-radius:50px;
+    margin: auto;
+}
+.home-appliances{
+    height: 200px;
+    width: 300px;
+    padding: 2px;
+    border-radius:50px;  
+    margin-bottom: 50px;
+}
+    .sim{
+        height: 200px;
+        width: 300px;
+        padding: 2px;
+        border-radius:50px;  
+        margin-bottom: 50px;  
+}
+.img{
+    height: 185px;
+    width: 270px;
+    padding: 2px;
+    border-radius:50px; 
+    margin-bottom: 50px;  
+}
+.img-2{
+    height: 185px;
+    width: 270px;
+    padding: 2px;
+    border-radius:50px;
+    margin-bottom:60px;
+}
+.img-3{
+    height: 185px;
+    width: 270px;
+    padding: 2px;
+    border-radius:50px;
+    margin-bottom:60px;
+}
+.img-4{
+    height: 185px;
+    width: 300px;
+    padding: 2px;
+    border-radius:50px;
+    margin-bottom:60px;
+}
+.img-5{
+    height: 185px;
+    width: 270px;
+    padding: 2px;
+    border-radius:50px;
+    margin-bottom:50px;
+}
+.img-6{
+    height: 185px;
+    width: 270px;
+    padding: 2px;
+    border-radius:50px;
+    margin-bottom:50px;
+}
+.img-7{
+    height: 185px;
+    width: 300px;
+    padding: 2px;
+    border-radius:50px;
+    margin-bottom:50px;
+}
+.app{
+    background-color: black;
+    height: 30px;
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.app-2{
+background-color: chocolate;
+height: 30px;
+width: 300px;
+justify-content: center;
+display: flex;
+margin: auto;
+border-radius: 10px;
+margin-bottom: 30px;
+}
+.app-3{
+    background-color: red;
+    height: 30px;
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.box{
+    background-color: blue;
+    height: 480px;
+    width: 590px;
+    border-radius:50px;
+    margin: auto;
+    float: right;
+}
+.down{
+    height: 200px;
+    width: 250px;
+    border-radius:50px;
+    margin: auto;
+    padding: 20px;
+}
+.class{
+    height: 200px;
+    width: 250px;
+    border-radius:50px;
+    margin: auto;
+    padding: 20px; 
+}
+.grow{
+    height: 200px;
+    width: 250px;
+    border-radius:50px;
+    margin: auto; 
+}
+.SIMDI{
+    background-color: chartreuse;
+    height: 100px;
+}
+.pic{
+    height: 150px;
+    width: 250px;
+    border-radius:50px;
+    margin: auto;
+    padding: 20px;
+}
+.read{
+    height: 200;
+    width: 200px;
+    padding: 30px;
+    border-radius: 50px;
+}
+.ekube{
+    background-color: orangered;
+    height: 100px;
+    width: 250px;
+    float: right;
+    border-radius: 10px;
+    padding: 10px;
+}
+.top-deals{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.top-deal-img{
+    height: 200px;
+    width: 300px;
+    padding: 30px;
+    border-radius: 30px;
+}
+.price{
+    height: 30px;
+    width: 70px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 7px;
+}
+.popularity{
+    height: 50px;
+    width: 70px;
+    background-color: blue;
+    padding: 5px;
+    border-radius:10px;
+}
+.name{
+    height: 50px;
+    width: 70px;
+    background-color: yellow;
+    padding: 5px;
+    border-radius:10px;
+} 
+.details{
+    height: 50px;
+    width: 70px;
+    background-color: blue;
+    padding: 5px;
+    border-radius:10px;
+} 
+.img{
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+}
+.img-2{
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+}
+.top-deals-section{
+    height: 100px;
+    width: 700px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.top-deals{
+    background-color: black;
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
